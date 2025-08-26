@@ -41,27 +41,3 @@ out/
 frontend/dist/
 backend/dist/
 
-# =========================
-# IDE & Editor files
-# =========================
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# =========================
-# OS generated files
-# =========================
-.DS_Store
-Thumbs.db
-
-# =========================
-# Coverage
-# =========================
-coverage/
-*.lcov
-
-# =========================
-# Misc
-# =========================
-*.lock-wscript
